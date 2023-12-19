@@ -2,15 +2,19 @@
 # Projeto em CSharp com Selenium, utilizando NUnit e .Net 5.0
 
 
+## Status do Projeto
+> Status do Projeto: Em desenvolvimento :warning:
 
-
+## Tarefas em aberto
+> Tarefa 1: Criar estrutura do projeto.
+> Tarefa 2: Criar método para abrir/fechar o navegador e acessar o site Investidor 10.
+> Tarefa 3: Criar as interações de clique e verificação da Home page.
 
 ## Descrição do Projeto
 Este projeto tem por motivação realizar a automação de consultas em diversas Ações/Cotas no Automação do site Investidor 10.
 
 
-## Status do Projeto
-> Status do Projeto: Em desenvolvimento :warning:
+
 ## Linguagens e libs utilizadas :books:
 - .Net 5.0
     - Selenium até o momento só suporta até o .Net 5.0
