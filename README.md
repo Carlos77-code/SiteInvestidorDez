@@ -6,9 +6,9 @@
 > Status do Projeto: Em desenvolvimento :warning:
 
 ## Tarefas em aberto
-> Tarefa 1: Criar estrutura do projeto.
-> Tarefa 2: Criar método para abrir/fechar o navegador e acessar o site Investidor 10.
-> Tarefa 3: Criar as interações de clique e verificação da Home page.
+- [] Tarefa 1: Criar estrutura do projeto.
+- [] Tarefa 2: Criar método para abrir/fechar o navegador e acessar o site Investidor 10.
+- [] Tarefa 3: Criar as interações de clique e verificação da Home page.
 
 ## Descrição do Projeto
 Este projeto tem por motivação realizar a automação de consultas em diversas Ações/Cotas no Automação do site Investidor 10.
