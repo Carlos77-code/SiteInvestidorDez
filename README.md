@@ -28,6 +28,8 @@ Para rodar a automação, execute o seguinte comando
   Test Explorer (nele dá para escolher se roda somente um teste ou todos que tiver)
 ```
 
+### Resolvendo problemas
+-
 
 ### Participante:
 
