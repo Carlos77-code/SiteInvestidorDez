@@ -4,17 +4,12 @@ using OpenQA.Selenium.Chrome;
 
 namespace SiteInvestidorDez
 {
-    public class Tests
+    public class Begin
     {
         public IWebDriver driver;
 
         [SetUp]
         public void InicioTeste()
-        {
-        }
-
-        [Test]
-        public void Teste()
         {
             driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://investidor10.com.br/");
