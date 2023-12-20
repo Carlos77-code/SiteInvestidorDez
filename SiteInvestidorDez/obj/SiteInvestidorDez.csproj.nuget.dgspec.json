@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos\\Documents\\Ambiente de Desenvolvimento\\Projects_C#\\SiteInvestidorDez\\SiteInvestidorDez\\SiteInvestidorDez.csproj": {}
+    "C:\\Users\\Carlos\\Documents\\Github\\SiteInvestidorDez\\SiteInvestidorDez\\SiteInvestidorDez.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos\\Documents\\Ambiente de Desenvolvimento\\Projects_C#\\SiteInvestidorDez\\SiteInvestidorDez\\SiteInvestidorDez.csproj": {
+    "C:\\Users\\Carlos\\Documents\\Github\\SiteInvestidorDez\\SiteInvestidorDez\\SiteInvestidorDez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos\\Documents\\Ambiente de Desenvolvimento\\Projects_C#\\SiteInvestidorDez\\SiteInvestidorDez\\SiteInvestidorDez.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos\\Documents\\Github\\SiteInvestidorDez\\SiteInvestidorDez\\SiteInvestidorDez.csproj",
         "projectName": "SiteInvestidorDez",
-        "projectPath": "C:\\Users\\Carlos\\Documents\\Ambiente de Desenvolvimento\\Projects_C#\\SiteInvestidorDez\\SiteInvestidorDez\\SiteInvestidorDez.csproj",
+        "projectPath": "C:\\Users\\Carlos\\Documents\\Github\\SiteInvestidorDez\\SiteInvestidorDez\\SiteInvestidorDez.csproj",
         "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos\\Documents\\Ambiente de Desenvolvimento\\Projects_C#\\SiteInvestidorDez\\SiteInvestidorDez\\obj\\",
+        "outputPath": "C:\\Users\\Carlos\\Documents\\Github\\SiteInvestidorDez\\SiteInvestidorDez\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,9 +56,9 @@
               "target": "Package",
               "version": "[4.4.2, )"
             },
-            "coverlet.collector": {
+            "Selenium.WebDriver": {
               "target": "Package",
-              "version": "[3.2.0, )"
+              "version": "[4.16.2, )"
             }
           },
           "imports": [
