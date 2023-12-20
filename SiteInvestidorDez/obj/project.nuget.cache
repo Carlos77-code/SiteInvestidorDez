@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f5Hm6eJFwpW0awO/jHCZ46kGY8Fwf+fnQsq4qC4hO4m/yatGKGspHpKT0lMlZ/ghYo4N6p/7iPsbeJvFns0mew==",
+  "dgSpecHash": "SAW5iJcWneCtRYimY2GZCPl/aXIucZF/jw8J9kXY8bEVpj0ZLiBCu6Dx3q4mXJVzpCYcWQ5ZMU99bxAk5oT+/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Carlos\\Documents\\Github\\SiteInvestidorDez\\SiteInvestidorDez\\SiteInvestidorDez.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\Carlos\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
     "C:\\Users\\Carlos\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
     "C:\\Users\\Carlos\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\selenium.webdriver.chromedriver\\120.0.6099.10900\\selenium.webdriver.chromedriver.120.0.6099.10900.nupkg.sha512",
     "C:\\Users\\Carlos\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
