@@ -102,7 +102,6 @@ namespace SiteInvestidorDez.Page
                 }
                     Console.WriteLine($"Será pago o mesmo valor do mês anterior: {pagamento[i]} {valor[i]}");
                 
-                
                 ClicaElemento("//img[@alt='logo investidor10']"); //Volta para a busca
 
             }
