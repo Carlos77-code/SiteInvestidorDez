@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SiteInvestidorDez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33b1b674c9969d8fff16f44888b0911d85d0f43b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+482a0c61479b6ea393fed1b29c09360c922d0320")]
 [assembly: System.Reflection.AssemblyProductAttribute("SiteInvestidorDez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SiteInvestidorDez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

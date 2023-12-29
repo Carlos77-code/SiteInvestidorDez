@@ -1,5 +1,6 @@
 ﻿using SiteInvestidorDez.Core;
 using System;
+using System.IO;
 using System.Reflection.Emit;
 
 namespace SiteInvestidorDez.Page
@@ -49,43 +50,43 @@ namespace SiteInvestidorDez.Page
 
         public void ValidaMultiplosDividendos()
         {
-            string[] cotas =
-            {
+            string[] cotas = File.ReadAllLines(@"C:\\Users\\Carlos\\Documents\\Github\\SiteInvestidorDez\\DataBase\\cotas.txt");
+            /*{
                 "MXRF11",
                 "BDIV11",
                 "BLMG11",
                 "EGAF11",
                 "GCRA11"
-            };
+            };*/
 
-            string[] data_com =
-            {
+            string[] data_com = File.ReadAllLines(@"C:\\Users\\Carlos\\Documents\\Github\\SiteInvestidorDez\\DataBase\\Data-Com.txt");
+            /*{
                 "28/12/2023", //[1]
                 "19/10/2023", //[1]
                 "07/12/2023", //[1]
                 "07/12/2023", //[1]
                 "07/12/2023"  //[1]
-            };
+            };*/
 
-            string[] pagamento =
-            {
+            string[] pagamento = File.ReadAllLines(@"C:\\Users\\Carlos\\Documents\\Github\\SiteInvestidorDez\\DataBase\\Pagamento.txt");
+            /*{
                 "15/01/2024", //[2]
                 "26/10/2023", //[2]
                 "14/12/2023", //[2]
                 "14/12/2023", //[2]
                 "14/12/2023"  //[2]
-            };
+            };*/
 
-            string[] valor =
-            {
+            string[] valor = File.ReadAllLines(@"C:\\Users\\Carlos\\Documents\\Github\\SiteInvestidorDez\\DataBase\\Valor.txt");
+            /*{
                 "0,11000000", //[3]
                 "6,90000000", //[3]
                 "0,30000000", //[3]
                 "1,20000000", //[3]
                 "1,00000000"  //[3]
-            };
+            };*/
 
-            for(int i = 0; i < cotas.Length; i++)
+            for (int i = 0; i < cotas.Length; i++)
             {
                 EscreveTexto("/html/body/div[3]/div/div/section[1]/div/div/div[1]/div/form/div/span/input[2]", cotas[i]);
                 ClicaElemento("/html/body/div[3]/div/div/section[1]/div/div/div[1]/div/form/div/button");
@@ -100,7 +101,6 @@ namespace SiteInvestidorDez.Page
                     ValidaDados("//td[@class='text-center']['07/12/2023'][4]", valor[i]);
                 }
                     Console.WriteLine($"Será pago o mesmo valor do mês anterior: {pagamento[i]} {valor[i]}");
-                
                 
                 ClicaElemento("//img[@alt='logo investidor10']"); //Volta para a busca
 
