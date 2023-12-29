@@ -24,6 +24,7 @@ C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\bin\Debug\n
 C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\bin\Debug\net8.0\NuGet.Frameworks.dll
 C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\bin\Debug\net8.0\nunit.framework.legacy.dll
 C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\bin\Debug\net8.0\WebDriver.dll
 C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
@@ -102,4 +103,3 @@ C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\obj\Debug\n
 C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\obj\Debug\net8.0\SiteInvestidorDez.pdb
 C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\obj\Debug\net8.0\SiteInvestidorDez.genruntimeconfig.cache
 C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\obj\Debug\net8.0\ref\SiteInvestidorDez.dll
-C:\Users\Carlos\Documents\Github\SiteInvestidorDez\SiteInvestidorDez\bin\Debug\net8.0\nunit.framework.legacy.dll
