@@ -47,7 +47,6 @@ Para rodar a automação, execute o seguinte comando
 - Precisei criar e inserir o arquivos .vsidx dentro do .gitignore para conseguir commitar
 
 ### Participante:
-- Carlos L. Fernandes
 |name|email|Cargo|
 | -------- | -------- | -------- 
 |Carlos L. Fernandes|carloslimafernandes@hotmail.com|QA|
